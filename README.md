@@ -1,6 +1,6 @@
   # My Calculator
 
-Este projeto tem por objetivo praticar o uso do Linear Layout e responsividade.
+Este projeto tem por objetivo praticar o uso do Linear Layout, responsividade, binding.
 É uma calculadotra simples, apenas com as funções de soma, subtração, multiplicação e divisão.
 
 ## 📋 Proximas sprints:
