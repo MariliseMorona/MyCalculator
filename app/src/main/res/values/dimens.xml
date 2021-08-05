@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_calc">32sp</dimen>
+    <dimen name="input_calc">10sp</dimen>
+    <dimen name="margin">8sp</dimen>
+    <dimen name="padding">8sp</dimen>
+
+</resources>
